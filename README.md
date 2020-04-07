@@ -2,7 +2,7 @@
 First Git
 
 ## 좋은하루 되세요.
-V_Gyu
+soDeang
 
 ### 1. 프로젝트명
   - 영화 예매 사이트
