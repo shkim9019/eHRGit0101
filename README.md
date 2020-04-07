@@ -2,7 +2,7 @@
 First Git
 
 ## 좋은하루 되세요.
-soDeang
+V_Gyu
 
 ### 1. 프로젝트명
   - 영화 예매 사이트
@@ -60,3 +60,19 @@ print "HR Kim"
 print "Spring"  
 pass  
 ```
+
+```javascript
+var data = "HR Spring";  
+data.song= "너에게로 초대";  
+```
+
+
+가로선
+---  
+***  
+----------
+
+하이퍼 링크
+'''[링크테스트](URL)
+'''
+[HR_Spring][https://cafe.naver.com/kndjang "SIST 강북 스프링"]
