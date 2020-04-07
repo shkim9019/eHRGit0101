@@ -82,4 +82,4 @@ __강조텍스트__
 강조텍스트  
 
 이미지 넣기
-![고냥이]()
+![고냥이](https://github.com/shkim9019/eHRGit0101/blob/master/eHRGit0101/src/KakaoTalk_20200122_101208022.jpg "고냥이입니다")
